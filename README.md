@@ -6,9 +6,9 @@ Steps to host a static website-
 
 ```
 
-1. Create an S# bucket.
+1. Create an S3 bucket.
 
-2. In the properties select option to use bucket as a static website
+2. In the properties select option to Enable static website hosting for S3 bucket.
 
 3. Upload html files to the bucket
 
